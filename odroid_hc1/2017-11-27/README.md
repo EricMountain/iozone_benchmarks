@@ -6,7 +6,7 @@ and not trimmed before starting these benchamrks.
 * Self built kernel from ODroid GitHub with debug symbols (don't you just hate it when building with debug symbols makes a fully reproducible sudden death bug disappear?)
 * iozone built from AUR.
 * Stderr files are omitted as they were empty.
-* `.report` files are "Excel compatible file(s) that contains the results".
+* `.report` files are "Excel compatible file(s) that contain(s) the results".
 * `.graph` files are plain text equivalents.
 
 ## Commands
