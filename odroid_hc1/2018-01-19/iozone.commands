@@ -1,0 +1,2 @@
+iozone -a -b ~/iozone.usb.ssd.xls -R > ~/iozone.usb.ssd.stdout 2> ~/iozone.usb.ssd.stderr
+#iozone -a -b ~/iozone.sata.ssd.xls -R > ~/iozone.sata.ssd.stdout 2> ~/iozone.sata.ssd.stderr
